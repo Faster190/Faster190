@@ -15,7 +15,11 @@
                     </p>
                     
 ### Мои проекты:
-* [Сайт на Django: "Игровой магазин".](https://github.com/Faster190/DjangoApp/tree/main/GameShop)<br>
-  Стек: python, Django, MySQL, ORM, HTML, CSS
 *  [Анализатор прайс-листов.](https://github.com/Faster190/PriceMachine)<br>
   Стек: python, os
+* [Сайт на Django: "Игровой магазин".](https://github.com/Faster190/DjangoApp/tree/main/GameShop)<br>
+  Стек: python, Django, MySQL, ORM, HTML, CSS
+* [Сайт на Flask: "Блог".](https://github.com/Faster190/DjangoApp/tree/main/GameShop)<br>
+  Стек: python, Flask, MySQL, ORM, HTML, CSS
+* [Сайт на FastApi: "Блог".](https://github.com/Faster190/DjangoApp/tree/main/GameShop)<br>
+  Стек: python, FastApi, MySQL, ORM, HTML, CSS
