@@ -22,4 +22,4 @@
 * [Сайт на Django: "Игровой магазин".](https://github.com/Faster190/DjangoApp/tree/main)<br>
   Стек: python, Django, MySQL, ORM, HTML, CSS
 * [Сайт на FastApi: "Игровой Блог".](https://github.com/Faster190/FastApiApp)<br>
-  Стек: python, FastApi, MySQL, ORM, HTML, Bootstrap
+  Стек: python, FastApi, MySQL, ORM, HTML, Bootstrap, sqlalchemy
