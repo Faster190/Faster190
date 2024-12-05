@@ -19,7 +19,7 @@
   Стек: python, os
 * [Сайт на Flask: "Игровой Блог".](https://github.com/Faster190/FlaskApp)<br>
   Стек: python, Flask, MySQL, ORM, HTML, Bootstrap
-* [Сайт на FastApi: "Игровой Блог".](https://github.com/Faster190/FastApiApp)<br>
-  Стек: python, FastApi, MySQL, ORM, HTML, Bootstrap
 * [Сайт на Django: "Игровой магазин".](https://github.com/Faster190/DjangoApp/tree/main/GameShop)<br>
   Стек: python, Django, MySQL, ORM, HTML, CSS
+* [Сайт на FastApi: "Игровой Блог".](https://github.com/Faster190/FastApiApp)<br>
+  Стек: python, FastApi, MySQL, ORM, HTML, Bootstrap
